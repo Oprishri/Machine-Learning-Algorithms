@@ -9,3 +9,11 @@ independent variables being used.
 
 
 ![alt text](https://github.com/Oprishri/Machine-Learning-Algorithms-Scratch/blob/main/linear-regression-plot.jpg)
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+
+
