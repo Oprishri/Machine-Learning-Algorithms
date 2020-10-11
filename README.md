@@ -10,11 +10,13 @@ independent variables being used.
 
 ![alt text](https://github.com/Oprishri/Machine-Learning-Algorithms-Scratch/blob/main/linear-regression-plot.jpg)
 
+Following are the type of regressions used in  machine learning, which I have implemented.
 
 - Simple Linear Regression
 - Multivariate Linear Regression
 - Polynomial Regression
 - Ridge Regression
 - Lasso Regression
+- ElasticNet Regression
 - Logistic Regression
 
