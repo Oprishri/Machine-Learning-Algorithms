@@ -8,4 +8,4 @@ independent variables being used.
 
 
 
-![alt text](https://www.geeksforgeeks.org/ml-linear-regression/#:~:text=Linear%20Regression%20is%20a%20machine,relationship%20between%20variables%20and%20forecasting.)
+![alt text](https://github.com/Oprishri/Machine-Learning-Algorithms-Scratch/blob/main/linear-regression-plot.jpg)
