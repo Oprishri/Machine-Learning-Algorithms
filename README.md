@@ -1,6 +1,6 @@
 # Machine-Learning-Algorithms-Scratch
 
-# Regression
+## Regression
 
 - Linear Regression is a machine learning algorithm based on supervised learning. It performs a regression task.
 - Regression models a target prediction value based on independent variables.
@@ -22,11 +22,14 @@ Following are the type of regressions used in  machine learning, which I have im
 - ElasticNet Regression
 - Logistic Regression
 
-### Classification
+## Classification
 In machine learning, classification is a supervised learning concept which basically categorizes a set of data into classes.
 - Classification is a process of categorizing a given set of data into classes, It can be performed on both structured or unstructured data. 
 
 ## Decision Tree
 A decision tree is a flowchart-like structure in which each internal node represents a "test" on an attribute (e.g. whether a coin flip comes up heads or tails), each branch represents the outcome of the test, and each leaf node represents a class label (decision taken after computing all attributes). 
+
+## KNN
+K-nearest neighbors (KNN) algorithm uses ‘feature similarity’ to predict the values of new datapoints which further means that the new data point will be assigned a value based on how closely it matches the points in the training set.
 
 I have implemented Decision tree classifier and KNN classifier algorithms
